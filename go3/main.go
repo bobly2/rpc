@@ -6,7 +6,7 @@ import (
 
 func main() {
 	//wuqing.Main22()
-	wuqing.Test3()
+	wuqing.MainJZ()
 	//result:=make(chan int)
 
 	//go func() {
